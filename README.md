@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
 
-[[Paper](xxxxxxxx)]
+[[Paper](./paper.pdf)]
 
 <div align="center">
   <img src="figures/main-intra-inter.jpg" width="80%" alt="HyC-LoRA Framework Overview">
