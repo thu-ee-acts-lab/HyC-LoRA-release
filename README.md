@@ -1,6 +1,6 @@
 # HyC-LoRA: Memory Efficient LoRA Fine-tuning with Hybrid Activation Compression
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](xxxxxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](./paper.pdf)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
@@ -138,9 +138,8 @@ We thank the authors for their open-sourced code.
 ```
 @article{hyclora2024,
   title={HyC-LoRA: Memory Efficient LoRA Fine-tuning with Hybrid Activation Compression},
-  author={Anonymous Authors},
-  journal={Preprint},
-  year={2024},
-  url={xxxxxxxx}
+  author={Yujin Wang, Shunan Dong, Zongle Huang, Yichen You, Liu He, Huazhong Yang, Yongpan Liu, Hongyang Jia},
+  journal={Proceedings of the 8th MLSys Conference},
+  year={2025},
 }
 ```
